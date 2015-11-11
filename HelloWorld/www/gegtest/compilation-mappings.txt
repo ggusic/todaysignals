@@ -1,0 +1,91 @@
+2FB0FDCBBC8CD352242DCB2DCE3568F1.cache.js
+mgwt.density mid
+mgwt.formfactor tablet
+phonegap.env no
+
+3133CEE39B3797558EC7BD1861CE4955.cache.js
+mgwt.density xhigh
+mgwt.formfactor phone
+phonegap.env yes
+
+5D5E800D103C8DEDAF0C78AD40E9BCB6.cache.js
+mgwt.density mid
+mgwt.formfactor tablet
+phonegap.env yes
+
+817A9EA55A332AB5D2BA252E9C129144.cache.js
+mgwt.density high
+mgwt.formfactor tablet
+phonegap.env no
+
+856510075F17DD509E2E06BE0375A531.cache.js
+mgwt.density xhigh
+mgwt.formfactor tablet
+phonegap.env no
+
+8CC924722BC19A4103FBCE196816B3DF.cache.js
+mgwt.density mid
+mgwt.formfactor phone
+phonegap.env yes
+
+8F3EDE9F318D819F74591544FDCCCE8E.cache.js
+mgwt.density high
+mgwt.formfactor phone
+phonegap.env yes
+
+90A9D01E160DCF1300119414E68AFDBC.cache.js
+mgwt.density high
+mgwt.formfactor tablet
+phonegap.env yes
+
+A6089FBB405991A6C956CB700707B27A.cache.js
+mgwt.density xhigh
+mgwt.formfactor desktop
+phonegap.env yes
+
+C5F04FC4EC0CC239FDA2604735A303C6.cache.js
+mgwt.density xhigh
+mgwt.formfactor desktop
+phonegap.env no
+
+CD3B8A6FD810D6535DD6ECD83192E5CE.cache.js
+mgwt.density high
+mgwt.formfactor phone
+phonegap.env no
+
+D03F76ADF32E55457C0EDED002524C33.cache.js
+mgwt.density xhigh
+mgwt.formfactor phone
+phonegap.env no
+
+D518EDC60AB219A6AD1AAA1F94BF9D4C.cache.js
+mgwt.density mid
+mgwt.formfactor desktop
+phonegap.env no
+
+DBAB921D9DCDCCF290F028E780361137.cache.js
+mgwt.density high
+mgwt.formfactor desktop
+phonegap.env yes
+
+E3177A905D66F52F96F8491E384ECB84.cache.js
+mgwt.density xhigh
+mgwt.formfactor tablet
+phonegap.env yes
+
+F4E5B33F8355B4F048F8A7B49F051649.cache.js
+mgwt.density high
+mgwt.formfactor desktop
+phonegap.env no
+
+FAD8BB6B5EE0F9904332EB2B49663A88.cache.js
+mgwt.density mid
+mgwt.formfactor phone
+phonegap.env no
+
+FD50DFA9BA5E0631DF54226458C659DA.cache.js
+mgwt.density mid
+mgwt.formfactor desktop
+phonegap.env yes
+
+Devmode:devmode.js
